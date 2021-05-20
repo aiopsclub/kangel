@@ -1,5 +1,5 @@
 ## ⚡️ Quick start
-The kangel is the angel daemon for kubelet, it can make kubelet more stable.
+The kangel is the angel daemonset for kubelet, it can make kubelet more stable.
 
 First of all, it require Helm, The chart in the chart dir. 
 
